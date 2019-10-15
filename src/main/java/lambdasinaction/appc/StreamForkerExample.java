@@ -1,5 +1,6 @@
 package lambdasinaction.appc;
 
+import lambdasinaction.chap4.Dish;
 import lambdasinaction.chap6.*;
 
 import static java.util.stream.Collectors.*;
